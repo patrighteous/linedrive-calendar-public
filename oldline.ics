@@ -8,60 +8,60 @@ X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260425T183000
-DTEND;TZID="UTC-04:00":20260425T193000
-DTSTAMP:20260422T231825Z
+DTEND;TZID="UTC-04:00":20260425T183000
+DTSTAMP:20260422T232256Z
 UID:2026-04-25-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch (6 PM). Tree nut +
-  seafood allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260509T183000
-DTEND;TZID="UTC-04:00":20260509T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260509T183000
+DTSTAMP:20260422T232256Z
 UID:2026-05-09-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260523T183000
-DTEND;TZID="UTC-04:00":20260523T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260523T183000
+DTSTAMP:20260422T232256Z
 UID:2026-05-23-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260606T183000
-DTEND;TZID="UTC-04:00":20260606T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260606T183000
+DTSTAMP:20260422T232256Z
 UID:2026-06-06-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260620T183000
-DTEND;TZID="UTC-04:00":20260620T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260620T183000
+DTSTAMP:20260422T232256Z
 UID:2026-06-20-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
@@ -80,60 +80,60 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260704T133000
-DTEND;TZID="UTC-04:00":20260704T143000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260704T133000
+DTSTAMP:20260422T232256Z
 UID:2026-07-04-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260711T183000
-DTEND;TZID="UTC-04:00":20260711T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260711T183000
+DTSTAMP:20260422T232256Z
 UID:2026-07-11-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260801T183000
-DTEND;TZID="UTC-04:00":20260801T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260801T183000
+DTSTAMP:20260422T232256Z
 UID:2026-08-01-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260815T183000
-DTEND;TZID="UTC-04:00":20260815T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260815T183000
+DTSTAMP:20260422T232256Z
 UID:2026-08-15-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260829T183000
-DTEND;TZID="UTC-04:00":20260829T193000
-DTSTAMP:20260422T231900Z
+DTEND;TZID="UTC-04:00":20260829T183000
+DTSTAMP:20260422T232256Z
 UID:2026-08-29-keys-meal
 COLOR:#3F51B5
-DESCRIPTION:30 meals. Delivery 30 min after first pitch. Tree nut + seafoo
- d allergies.
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
