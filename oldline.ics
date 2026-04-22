@@ -30,6 +30,20 @@ LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CONFIRMED] Ren at the Den — The Bard and the Bird
+DTSTART;TZID="UTC-04:00":20260514T160000
+DTEND;TZID="UTC-04:00":20260514T220000
+DTSTAMP:20260422T234536Z
+UID:2026-05-14-ren-at-the-den
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
+  Den. Performer: The Bard and the Bird. Costumes encouraged\, not required
+ .
+LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
+ ick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260523T183000
 DTEND;TZID="UTC-04:00":20260523T190000
@@ -42,6 +56,19 @@ LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[CONFIRMED] Ren at the Den — Edie MacKay
+DTSTART;TZID="UTC-04:00":20260528T160000
+DTEND;TZID="UTC-04:00":20260528T220000
+DTSTAMP:20260422T234536Z
+UID:2026-05-28-ren-at-the-den
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
+  Den. Performer: Edie MacKay. Costumes encouraged\, not required.
+LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
+ ick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[CONFIRMED] Keys meal
 DTSTART;TZID="UTC-04:00":20260606T183000
 DTEND;TZID="UTC-04:00":20260606T190000
@@ -51,6 +78,20 @@ COLOR:#3F51B5
 DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
  ood allergies.
 LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[CONFIRMED] Ren at the Den — Pirate Party (Bardwin the Bard)
+DTSTART;TZID="UTC-04:00":20260613T160000
+DTEND;TZID="UTC-04:00":20260613T220000
+DTSTAMP:20260422T234536Z
+UID:2026-06-13-ren-at-the-den-pirate
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
+  Den. Performer: Bardwin the Bard (pirate-themed solo act\; one half of Th
+ e Bard and the Bird). Costumes encouraged\, not required.
+LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
+ ick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
