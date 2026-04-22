@@ -6,13 +6,15 @@ METHOD:PUBLISH
 X-WR-CALNAME:LineDrive — oldline
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:Frederick's 4th — Vendor (Fleming Ave)
+SUMMARY:[CONFIRMED] Frederick's 4th — Vendor (Fleming Ave)
 DTSTART;VALUE=DATE:20260704
 DTEND;VALUE=DATE:20260705
 DTSTAMP:20260422T041711Z
 UID:2026-07-04-fredericks-4th
+COLOR:#3F51B5
 DESCRIPTION:Old Line Tailgate Co. vendor slot at Frederick's 4th. Fleming 
  Ave.
 LOCATION:Fleming Ave\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 END:VCALENDAR
