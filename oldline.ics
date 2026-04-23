@@ -30,15 +30,16 @@ LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ren at the Den — The Bard and the Bird
+SUMMARY:Ren at the Den [V]
 DTSTART;TZID="UTC-04:00":20260514T160000
 DTEND;TZID="UTC-04:00":20260514T220000
-DTSTAMP:20260422T234536Z
+DTSTAMP:20260423T003027Z
 UID:2026-05-14-ren-at-the-den
 COLOR:#3F51B5
 DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
-  Den. Performer: The Bard and the Bird. Costumes encouraged\, not required
- .
+  Den. Performer: The Bard and the Bird (house-preferred husband-and-wife b
+ ard musical duo\; performed Night One (01/29/2026)). Costumes encouraged\,
+  not required.
 LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
  ick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
@@ -56,14 +57,16 @@ LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ren at the Den — Edie Mackay
+SUMMARY:Ren at the Den [V]
 DTSTART;TZID="UTC-04:00":20260528T160000
 DTEND;TZID="UTC-04:00":20260528T220000
-DTSTAMP:20260422T234807Z
+DTSTAMP:20260423T003027Z
 UID:2026-05-28-ren-at-the-den
 COLOR:#3F51B5
 DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
-  Den. Performer: Edie Mackay. Costumes encouraged\, not required.
+  Den. Performer: Edie Mackay (solo musician\; daughter Ellie Cattle plays 
+ fiddle with her\; recommended by The Bard and the Bird\; previously perfor
+ med 4/9/2026). Costumes encouraged\, not required.
 LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
  ick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
@@ -81,10 +84,10 @@ LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ren at the Den — Pirate Party (Bardwin the Bard)
+SUMMARY:Ren at the Den — Pirate Party [V]
 DTSTART;TZID="UTC-04:00":20260613T160000
 DTEND;TZID="UTC-04:00":20260613T220000
-DTSTAMP:20260422T234536Z
+DTSTAMP:20260423T003027Z
 UID:2026-06-13-ren-at-the-den-pirate
 COLOR:#3F51B5
 DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
