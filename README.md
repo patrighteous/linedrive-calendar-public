@@ -2,22 +2,35 @@
 
 Public iCal feeds for Pat Acuña's LineDrive calendar system. Rendered by the
 `calendar_projector` tool from authoritative event records in the private
-LineDrive ecosystem and served via GitHub Pages. Family Wall subscribes to
-these URLs via its "Add Subscription Calendar" feature.
+LineDrive ecosystem and served via GitHub Pages. Downstream subscribers
+(Family Wall, Apple Calendar, etc.) poll these URLs on their own cadence.
 
 ## Feeds
 
+Three public feeds:
+
 - **`oldline.ics`** — business operations (caterings, truck dates, tavern shifts, Ren events, supplier appointments, vendor events)
 - **`family.ics`** — household-facing events visible to Angela
+- **`combined.ics`** — synthetic union of `oldline` ∪ `family`, deduplicated by UID. One URL that covers everything Pat surfaces publicly. Intended for Pat's own Apple Calendar and for Angela if she wants a single subscription.
 
-**`personal.ics` does not exist** — personal events never leave the LineDrive
-ecosystem. The `personal` audience tag is valid on source records, but it is
-never projected to a public feed.
+## There is intentionally no `personal.ics` here
+
+Strictly-personal events (audience = `[personal]` and nothing else) are
+projected locally on Pat's machine only and never leave the LineDrive
+ecosystem. That feed is served via `file://` URL to Pat's local calendar
+client; it is not hosted here and cannot be subscribed to remotely.
+
+Events whose audience combines `personal` with a public audience — e.g.
+`audience: [oldline, personal]` — appear in the public feeds
+(`oldline.ics` and `combined.ics`) once, because at that point they're
+explicitly authorized for that public surface. The `personal` tag on such
+records is informational only; it does not pull them into a second feed.
 
 ## Subscription URLs
 
 - `https://patrighteous.github.io/linedrive-calendar-public/oldline.ics`
 - `https://patrighteous.github.io/linedrive-calendar-public/family.ics`
+- `https://patrighteous.github.io/linedrive-calendar-public/combined.ics`
 
 ## Do not edit these files directly
 
@@ -26,7 +39,7 @@ will be overwritten. To change an event:
 
 1. Edit the source record at `events/YYYY/NN-slug.md` in the private LineDrive ecosystem.
 2. Run the projector (cron handles this daily at 5:30 AM ET).
-3. Family Wall re-polls on its own cadence (undocumented; assume up to 24 hours).
+3. Subscribers re-poll on their own cadence (Family Wall undocumented; assume up to 24 hours).
 
 ## Governance
 
