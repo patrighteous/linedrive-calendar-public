@@ -5,4 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:LineDrive — family
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Pat possibly out of town — NASCAR race
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+DTSTAMP:20260423T004231Z
+UID:2026-07-17-nascar-weekend
+COLOR:#3F51B5
+DESCRIPTION:Pat possibly out of town Fri 7/17 – Sun 7/19 for the NASCAR 
+ Cup race at North Wilkesboro Speedway. Unlikely to ultimately attend\, but
+  the full weekend is blocked off in case.
+LOCATION:North Wilkesboro Speedway\, North Wilkesboro\, NC
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
 END:VCALENDAR
