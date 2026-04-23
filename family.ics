@@ -9,12 +9,9 @@ BEGIN:VEVENT
 SUMMARY:Pat possibly out of town — NASCAR race
 DTSTART;VALUE=DATE:20260717
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260423T004927Z
+DTSTAMP:20260423T013820Z
 UID:2026-07-17-nascar-weekend
 COLOR:#3F51B5
-DESCRIPTION:Pat possibly out of town Fri 7/17 – Sun 7/19 for the NASCAR 
- Cup race at North Wilkesboro Speedway. Unlikely to ultimately attend\, but
-  the full weekend is blocked off in case.
 LOCATION:North Wilkesboro Speedway\, North Wilkesboro\, NC
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
@@ -22,12 +19,9 @@ BEGIN:VEVENT
 SUMMARY:Pat possibly out of town — White Marlin Open
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260423T005838Z
+DTSTAMP:20260423T013820Z
 UID:2026-08-05-white-marlin-open
 COLOR:#3F51B5
-DESCRIPTION:53rd annual White Marlin Open runs Mon 8/3 – Sat 8/8 in Ocea
- n City\, MD. Pat plans to be in OC for 3–4 nights somewhere inside this 
- block — exact arrival/departure days TBD.
 LOCATION:Ocean City\, MD — White Marlin Open + MarlinFest
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
