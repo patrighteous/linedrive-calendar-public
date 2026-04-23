@@ -171,15 +171,15 @@ LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pat out of town — White Marlin Open
-DTSTART;VALUE=DATE:20260805
+SUMMARY:Pat possibly out of town — White Marlin Open
+DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260809
-DTSTAMP:20260423T005518Z
+DTSTAMP:20260423T005838Z
 UID:2026-08-05-white-marlin-open
 COLOR:#3F51B5
-DESCRIPTION:Pat in Ocean City Wed 8/5 – Sat 8/8 for the White Marlin Ope
- n. 53rd annual tournament runs Mon 8/3 – Sat 8/8 this year. Content trip
-  — same as the last two summers.
+DESCRIPTION:53rd annual White Marlin Open runs Mon 8/3 – Sat 8/8 in Ocea
+ n City\, MD. Pat plans to be in OC for 3–4 nights somewhere inside this 
+ block — exact arrival/departure days TBD.
 LOCATION:Ocean City\, MD — White Marlin Open + MarlinFest
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
