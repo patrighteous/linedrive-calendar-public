@@ -1,0 +1,222 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LineDrive//Calendar Projector 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LineDrive — combined
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260425T183000
+DTEND;TZID="UTC-04:00":20260425T190000
+DTSTAMP:20260422T233132Z
+UID:2026-04-25-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rockwell — Gettysburg Bike Week kickoff [CONFIRMED]
+DTSTART;TZID="UTC-04:00":20260502T120000
+DTEND;TZID="UTC-04:00":20260502T170000
+DTSTAMP:20260423T010154Z
+UID:2026-05-02-rockwell-gettysburg-bike-week
+COLOR:#0B8043
+DESCRIPTION:Gettysburg Bike Week kickoff at Rockwell Brewery. Expected 300
+ –500 attendees. Pat's truck on site noon–5 PM.
+LOCATION:Rockwell Brewery\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#0B8043
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260509T183000
+DTEND;TZID="UTC-04:00":20260509T190000
+DTSTAMP:20260422T233132Z
+UID:2026-05-09-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ren at the Den [V]
+DTSTART;TZID="UTC-04:00":20260514T160000
+DTEND;TZID="UTC-04:00":20260514T220000
+DTSTAMP:20260423T003027Z
+UID:2026-05-14-ren-at-the-den
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
+  Den. Performer: The Bard and the Bird (house-preferred husband-and-wife b
+ ard musical duo\; performed Night One (01/29/2026)). Costumes encouraged\,
+  not required.
+LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
+ ick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260523T183000
+DTEND;TZID="UTC-04:00":20260523T190000
+DTSTAMP:20260422T233132Z
+UID:2026-05-23-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ren at the Den [V]
+DTSTART;TZID="UTC-04:00":20260528T160000
+DTEND;TZID="UTC-04:00":20260528T220000
+DTSTAMP:20260423T003027Z
+UID:2026-05-28-ren-at-the-den
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
+  Den. Performer: Edie Mackay (solo musician\; daughter Ellie Cattle plays 
+ fiddle with her\; recommended by The Bard and the Bird\; previously perfor
+ med 4/9/2026). Costumes encouraged\, not required.
+LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
+ ick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260606T183000
+DTEND;TZID="UTC-04:00":20260606T190000
+DTSTAMP:20260422T233132Z
+UID:2026-06-06-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ren at the Den — Pirate Party [V]
+DTSTART;TZID="UTC-04:00":20260613T160000
+DTEND;TZID="UTC-04:00":20260613T220000
+DTSTAMP:20260423T003027Z
+UID:2026-06-13-ren-at-the-den-pirate
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den — Renaissance-themed tavern night at Dragon's
+  Den. Performer: Bardwin the Bard (pirate-themed solo act\; one half of Th
+ e Bard and the Bird). Costumes encouraged\, not required.
+LOCATION:Dragon's Den\, Dragon Distillery — 1341 Hughes Ford Rd\, Freder
+ ick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260620T183000
+DTEND;TZID="UTC-04:00":20260620T190000
+DTSTAMP:20260422T233132Z
+UID:2026-06-20-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frederick's 4th — Vendor (Fleming Ave)
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DTSTAMP:20260422T041711Z
+UID:2026-07-04-fredericks-4th
+COLOR:#3F51B5
+DESCRIPTION:Old Line Tailgate Co. vendor slot at Frederick's 4th. Fleming 
+ Ave.
+LOCATION:Fleming Ave\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260704T133000
+DTEND;TZID="UTC-04:00":20260704T140000
+DTSTAMP:20260422T233132Z
+UID:2026-07-04-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260711T183000
+DTEND;TZID="UTC-04:00":20260711T190000
+DTSTAMP:20260422T233132Z
+UID:2026-07-11-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pat possibly out of town — NASCAR race
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260720
+DTSTAMP:20260423T004927Z
+UID:2026-07-17-nascar-weekend
+COLOR:#3F51B5
+DESCRIPTION:Pat possibly out of town Fri 7/17 – Sun 7/19 for the NASCAR 
+ Cup race at North Wilkesboro Speedway. Unlikely to ultimately attend\, but
+  the full weekend is blocked off in case.
+LOCATION:North Wilkesboro Speedway\, North Wilkesboro\, NC
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260801T183000
+DTEND;TZID="UTC-04:00":20260801T190000
+DTSTAMP:20260422T233132Z
+UID:2026-08-01-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pat possibly out of town — White Marlin Open
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260809
+DTSTAMP:20260423T005838Z
+UID:2026-08-05-white-marlin-open
+COLOR:#3F51B5
+DESCRIPTION:53rd annual White Marlin Open runs Mon 8/3 – Sat 8/8 in Ocea
+ n City\, MD. Pat plans to be in OC for 3–4 nights somewhere inside this 
+ block — exact arrival/departure days TBD.
+LOCATION:Ocean City\, MD — White Marlin Open + MarlinFest
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260815T183000
+DTEND;TZID="UTC-04:00":20260815T190000
+DTSTAMP:20260422T233132Z
+UID:2026-08-15-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Keys meal
+DTSTART;TZID="UTC-04:00":20260829T183000
+DTEND;TZID="UTC-04:00":20260829T190000
+DTSTAMP:20260422T233132Z
+UID:2026-08-29-keys-meal
+COLOR:#3F51B5
+DESCRIPTION:30 meals. Delivery at 30 min past first pitch. Tree nut + seaf
+ ood allergies.
+LOCATION:Harry Grove Stadium — front gates\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+END:VCALENDAR
