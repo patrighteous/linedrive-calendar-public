@@ -237,6 +237,27 @@ LOCATION:Ocean City\, MD — White Marlin Open + MarlinFest
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winlow walkthrough — dining room build (Matt Mahoney)
+DTSTART;VALUE=DATE:20260901
+DTSTAMP:20260827T143554Z
+UID:2026-09-01-winlow-walkthrough
+COLOR:#3F51B5
+DESCRIPTION:Site walkthrough with Winlow for the dining room build. Field 
+ checks: TV power/EMT delta\, audio evaluation\, paint scope.
+LOCATION:Dragon's Den — 1341 Hughes Ford Rd\, Frederick MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:45th Street Taphouse shoot (Zev)
+DTSTART;VALUE=DATE:20260908
+DTSTAMP:20260827T143559Z
+UID:2026-09-08-taphouse-shoot
+COLOR:#3F51B5
+DESCRIPTION:Video shoot at 45th Street Taphouse.
+LOCATION:45th Street Taphouse\, Ocean City MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandbox — Cookin with Greece (no Old Line) [BLACKOUT]
 DTSTART;VALUE=DATE:20261005
 DTSTAMP:20260826T232357Z
@@ -245,6 +266,16 @@ COLOR:#3F51B5
 DESCRIPTION:Cookin with Greece has the Sandbox slot this date — no Old L
  ine service at Sandbox.
 LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kraynak wedding — catering pickup [BOOKED]
+DTSTART;VALUE=DATE:20261010
+DTSTAMP:20260827T143605Z
+UID:2026-10-10-kraynak-wedding
+COLOR:#3F51B5
+DESCRIPTION:Wedding catering\, pickup service. Booked and paid.
+LOCATION:New Oxford\, PA (pickup service)
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
