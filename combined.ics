@@ -317,11 +317,12 @@ BEGIN:VEVENT
 SUMMARY:Bar-T Mountainside — Camp Event (truck) [TRUCK]
 DTSTART;TZID="UTC-04:00":20261010T100000
 DTEND;TZID="UTC-04:00":20261010T140000
-DTSTAMP:20260902T173917Z
+DTSTAMP:20260902T174456Z
 UID:2026-10-10-bar-t-mountainside-camp-event
 COLOR:#3F51B5
-DESCRIPTION:Truck on site 10 AM–2 PM. Anticipating 500 people. Contact: 
- Tim France (camp director).
+DESCRIPTION:Truck on site 10 AM–2 PM. Anticipating 500 people. Attendees
+  pay for their own meals (vending\, not single-payer). Contact: Tim France
+  (camp director).
 LOCATION:Bar-T Mountainside — 2914 Roderick Rd\, Frederick\, MD 21704
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
