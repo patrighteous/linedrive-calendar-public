@@ -44,4 +44,16 @@ DESCRIPTION:Leaving in the morning.
 LOCATION:Hershey / Lancaster\, PA
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pat in Ocean City — video trip (solo)
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260902T134511Z
+UID:2026-09-06-ocean-city-video-trip
+COLOR:#3F51B5
+DESCRIPTION:Sun drive down. Mon Rehoboth. Tue shoots at Smoky Heifer and 4
+ 5th Street Taphouse. Wed drive home.
+LOCATION:Ocean City\, MD / Rehoboth Beach\, DE
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
 END:VCALENDAR
