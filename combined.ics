@@ -280,6 +280,18 @@ LOCATION:45th Street Taphouse\, Ocean City MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oregon truck - health department inspection (Kyle) [OREGON]
+DTSTART;TZID="UTC-07:00":20260923T110000
+DTEND;TZID="UTC-07:00":20260923T120000
+DTSTAMP:20260916T175526Z
+UID:2026-09-23-oregon-health-inspection
+COLOR:#3F51B5
+DESCRIPTION:Kyle: 'My health department inspection has been scheduled for 
+ the 23rd at 11am' (Pacific).
+LOCATION:Redmond / Deschutes County\, OR (Kyle's truck)
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandbox — Old Line service day
 DTSTART;TZID="UTC-04:00":20260927T120000
 DTEND;TZID="UTC-04:00":20260927T200000
@@ -317,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Bar-T Mountainside — Camp Event (truck) [TRUCK]
 DTSTART;TZID="UTC-04:00":20261010T100000
 DTEND;TZID="UTC-04:00":20261010T140000
-DTSTAMP:20260902T174456Z
+DTSTAMP:20260902T175133Z
 UID:2026-10-10-bar-t-mountainside-camp-event
 COLOR:#3F51B5
 DESCRIPTION:Truck on site 10 AM–2 PM. Anticipating 500 people. Attendees
@@ -378,6 +390,32 @@ COLOR:#3F51B5
 DESCRIPTION:Cookin with Greece has the Sandbox slot this date — no Old L
  ine service at Sandbox.
 LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dragon's Den - Spring Ridge FAN Club (10-12) [DEN]
+DTSTART;TZID="UTC-05:00":20261107T140000
+DTEND;TZID="UTC-05:00":20261107T160000
+DTSTAMP:20261022T194434Z
+UID:2026-11-07-spring-ridge-fan-club-den
+COLOR:#3F51B5
+DESCRIPTION:Spring Ridge FAN Club\, 10-12 people\, Saturday 11/7 at 2:00 P
+ M in the Den.
+LOCATION:The Dragon's Den Tavern\, Dragon Distillery - 1341 Hughes Ford Rd
+ \, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ren at the Den [V]
+DTSTART;TZID="UTC-05:00":20261112T173000
+DTEND;TZID="UTC-05:00":20261112T210000
+DTSTAMP:20261009T171524Z
+UID:2026-11-12-ren-at-the-den
+COLOR:#3F51B5
+DESCRIPTION:Ren at the Den\, Thursday November 12\, 5:30 to 9 PM. Presale 
+ $5 on Ticket Tailor\, live now\; $10 at the door.
+LOCATION:The Dragon's Den Tavern\, Dragon Distillery - 1341 Hughes Ford Rd
+ \, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
