@@ -56,4 +56,103 @@ DESCRIPTION:Sun drive down. Mon Rehoboth. Tue shoots at Smoky Heifer and 4
 LOCATION:Ocean City\, MD / Rehoboth Beach\, DE
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES closed (Evie home) [EVIE]
+DTSTART;VALUE=DATE:20261026
+DTSTAMP:20261023T181739Z
+UID:2026-10-26-lewistown-school-closed
+COLOR:#3F51B5
+DESCRIPTION:No school for Evie on Monday 10/26.
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evie's parent-teacher conference [EVIE]
+DTSTART;TZID="UTC-04:00":20261028T160000
+DTEND;TZID="UTC-04:00":20261028T163000
+DTSTAMP:20261023T181739Z
+UID:2026-10-28-evie-parent-teacher-conference
+COLOR:#3F51B5
+DESCRIPTION:Evie's parent-teacher conference at Lewistown ES\, Wednesday 1
+ 0/28 at 4:00 PM. The school also has a 4-hour late arrival that day.
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES: 4-hour late arrival [EVIE]
+DTSTART;VALUE=DATE:20261028
+DTSTAMP:20261023T181739Z
+UID:2026-10-28-lewistown-late-arrival
+COLOR:#3F51B5
+DESCRIPTION:School starts 4 hours late on Wednesday 10/28 (conference day)
+ .
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES: 4-hour late arrival [EVIE]
+DTSTART;VALUE=DATE:20261029
+DTSTAMP:20261023T181739Z
+UID:2026-10-29-lewistown-late-arrival
+COLOR:#3F51B5
+DESCRIPTION:School starts 4 hours late on Thursday 10/29 (conference day).
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evie's Book Character Day and Parade\; 3.5-hour early dismissal [E
+ VIE]
+DTSTART;VALUE=DATE:20261030
+DTSTAMP:20261023T181739Z
+UID:2026-10-30-evie-book-character-parade
+COLOR:#3F51B5
+DESCRIPTION:Book Character Day and Parade at Lewistown ES on Friday 10/30.
+  Parents can come. School lets out 3.5 hours early (conference day).
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES closed (Evie home) [EVIE]
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20261023T181739Z
+UID:2026-11-03-lewistown-school-closed
+COLOR:#3F51B5
+DESCRIPTION:No school for Evie on Tuesday 11/3 (Election Day).
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES Family Literacy Night [EVIE]
+DTSTART;VALUE=DATE:20261119
+DTSTAMP:20261023T181739Z
+UID:2026-11-19-lewistown-family-literacy-night
+COLOR:#3F51B5
+DESCRIPTION:Family Literacy Night at Lewistown ES\, Thursday 11/19. Time n
+ ot yet known.
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES: Fall Party Day\; 2-hour early dismissal [EVIE]
+DTSTART;VALUE=DATE:20261124
+DTSTAMP:20261023T181739Z
+UID:2026-11-24-lewistown-fall-party-early-dismissal
+COLOR:#3F51B5
+DESCRIPTION:Fall Party Day at Lewistown ES on Tuesday 11/24\; school lets 
+ out 2 hours early.
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lewistown ES: Thanksgiving break (Wed 11/25 to Fri 11/27) [EVIE]
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261023T181739Z
+UID:2026-11-25-lewistown-thanksgiving-break
+COLOR:#3F51B5
+DESCRIPTION:No school Wednesday 11/25 through Friday 11/27 for Thanksgivin
+ g.
+LOCATION:Lewistown Elementary School\, Thurmont\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
 END:VCALENDAR
