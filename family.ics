@@ -193,6 +193,20 @@ LOCATION:Gettysburg\, PA
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Santa Express train\, Stone Gables Estate
+DTSTART;TZID="UTC-05:00":20261207T160000
+DTEND;TZID="UTC-05:00":20261207T164500
+DTSTAMP:20261112T193915Z
+UID:2026-12-07-santa-express-stone-gables
+COLOR:#3F51B5
+DESCRIPTION:Arrive by 3:40\; late arrivals can't board. About 1 hr 20 min 
+ from Mom and Dad's\, so leave around 2:15. Tickets are online only\, $20 e
+ ach for ages 3 and up\; not bought yet.
+LOCATION:Stone Gables Estate event entrance\, 1160 N Market St\, Elizabeth
+ town\, PA 17022
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Angela: YMCA 5K
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
