@@ -372,17 +372,6 @@ LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sandbox — Cookin with Greece (no Old Line) [BLACKOUT]
-DTSTART;VALUE=DATE:20261107
-DTSTAMP:20260826T232357Z
-UID:2026-11-07-sandbox-cookin-with-greece
-COLOR:#3F51B5
-DESCRIPTION:Cookin with Greece has the Sandbox slot this date — no Old L
- ine service at Sandbox.
-LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
-X-APPLE-CALENDAR-COLOR:#3F51B5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dragon's Den - Spring Ridge FAN Club (10-12) [DEN]
 DTSTART;TZID="UTC-05:00":20261107T140000
 DTEND;TZID="UTC-05:00":20261107T160000

@@ -155,4 +155,51 @@ DESCRIPTION:No school Wednesday 11/25 through Friday 11/27 for Thanksgivin
 LOCATION:Lewistown Elementary School\, Thurmont\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ann Marlene\, Dana & Tracy visiting Gettysburg [MAYBE]
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261112T152206Z
+UID:2026-11-27-ann-marlene-dana-tracy-gettysburg
+COLOR:#3F51B5
+DESCRIPTION:Staying at a bed and breakfast in Littlestown. Mom would love 
+ for us to see them.
+LOCATION:Gettysburg\, PA
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matt flies home\, 7:55 AM
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261112T152213Z
+UID:2026-12-02-matt-flies-home
+COLOR:#3F51B5
+DESCRIPTION:End of Matt's Thanksgiving visit.
+LOCATION:Gettysburg\, PA
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gettysburg trip at Mom & Dad's (Sun 12/6 to Wed 12/9) [TRIP]
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261112T152206Z
+UID:2026-12-06-gettysburg-trip-mom-dads
+COLOR:#3F51B5
+DESCRIPTION:Staying at Mom and Dad's: the two back bedrooms\, Grant on the
+  air mattress in Dad's office. Home Wednesday night 12/9 or Thursday morni
+ ng 12/10. Sunday 12/6 is the last day of Gettysburg's downtown Christmas f
+ estival (over around 4). Evie's 12/9 dentist appointment is being moved.
+LOCATION:Gettysburg\, PA
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angela: YMCA 5K
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+DTSTAMP:20261112T152206Z
+UID:2026-12-12-angela-ymca-5k
+COLOR:#3F51B5
+LOCATION:YMCA
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
 END:VCALENDAR
