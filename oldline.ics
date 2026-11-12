@@ -398,6 +398,66 @@ LOCATION:The Dragon's Den Tavern\, Dragon Distillery - 1341 Hughes Ford Rd
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Board Game Night [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261112T180000
+DTEND;TZID="UTC-05:00":20261112T210000
+DTSTAMP:20261112T202808Z
+UID:2026-11-12-sandbox-board-game-night
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:00 PM to 9:00 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/boardgamenight-04-35b2z
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Hours [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261112T173000
+DTEND;TZID="UTC-05:00":20261112T203000
+DTSTAMP:20261112T202808Z
+UID:2026-11-12-sandbox-creative-hours
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 5:30 PM to 8:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/creative-hours-04-s7ntw-nngsm-k7aga
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WDYM Frederick Got Raves [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261113T190000
+DTEND;TZID="UTC-05:00":20261113T230000
+DTSTAMP:20261112T202808Z
+UID:2026-11-13-sandbox-wdym-frederick-got-raves
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 11:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/wdym-frederick-got-raves
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rays Of Violet [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261114T190000
+DTEND;TZID="UTC-05:00":20261114T220000
+DTSTAMP:20261112T202808Z
+UID:2026-11-14-sandbox-rays-of-violet
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 10:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/rays-of-violet
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knine Rescue Adoption Event [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261115T120000
+DTEND;TZID="UTC-05:00":20261115T150000
+DTSTAMP:20261112T202808Z
+UID:2026-11-15-sandbox-knine-rescue-adoption-event
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 12:00 PM to 3:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/knine-rescue-adoption-event-3
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandbox — Cookin with Greece (no Old Line) [BLACKOUT]
 DTSTART;VALUE=DATE:20261116
 DTSTAMP:20260826T232357Z
@@ -406,6 +466,126 @@ COLOR:#3F51B5
 DESCRIPTION:Cookin with Greece has the Sandbox slot this date — no Old L
  ine service at Sandbox.
 LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Trivia [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261116T183000
+DTEND;TZID="UTC-05:00":20261116T210000
+DTSTAMP:20261112T202808Z
+UID:2026-11-16-sandbox-monday-trivia
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:30 PM to 9:00 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/monday-trivia-10
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Official Screening with Generation W [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261117T190000
+DTEND;TZID="UTC-05:00":20261117T223000
+DTSTAMP:20261112T202808Z
+UID:2026-11-17-sandbox-official-screening-with-generation-w
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 10:30 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/screening-with-generation-w
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Songwriter's Workshop [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261118T184500
+DTEND;TZID="UTC-05:00":20261118T213000
+DTSTAMP:20261112T202808Z
+UID:2026-11-18-sandbox-songwriter-s-workshop
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:45 PM to 9:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/songwiters-workshop-01-nfrxc
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 90s Unplugged: Live Karaoke [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261120T183000
+DTEND;TZID="UTC-05:00":20261120T220000
+DTSTAMP:20261112T202808Z
+UID:2026-11-20-sandbox-the-90s-unplugged-live-karaoke
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:30 PM to 10:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/the-90s-unplugged-live-karaoke
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gatwick\, Absent Habits\, An Awful Panic [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261121T190000
+DTEND;TZID="UTC-05:00":20261121T230000
+DTSTAMP:20261112T202808Z
+UID:2026-11-21-sandbox-gatwick-absent-habits-an-awful-panic
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 11:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/gatwick-absent-habits-an-awful-panic
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sip & Script: Ornament Lettering [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261121T140000
+DTEND;TZID="UTC-05:00":20261121T153000
+DTSTAMP:20261112T202808Z
+UID:2026-11-21-sandbox-sip-script-ornament-lettering
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 2:00 PM to 3:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/sip-script-ornament-lettering
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zine Club [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261124T183000
+DTEND;TZID="UTC-05:00":20261124T203000
+DTSTAMP:20261112T202808Z
+UID:2026-11-24-sandbox-zine-club
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:30 PM to 8:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/zine-club-02-ax6cz-8dmyl-plhzp-prhf5-9waek
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closed for Thanksgiving [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261126T160000
+DTEND;TZID="UTC-05:00":20261126T213000
+DTSTAMP:20261112T202808Z
+UID:2026-11-26-sandbox-closed-for-thanksgiving
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 4:00 PM to 9:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/closed-for-thanksgiving
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Market [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261128T120000
+DTEND;TZID="UTC-05:00":20261128T170000
+DTSTAMP:20261112T202808Z
+UID:2026-11-28-sandbox-holiday-market
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 12:00 PM to 5:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/holiday-market
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tom Blood Duo [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261128T183000
+DTEND;TZID="UTC-05:00":20261128T213000
+DTSTAMP:20261112T202808Z
+UID:2026-11-28-sandbox-the-tom-blood-duo
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:30 PM to 9:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/the-tom-blood-duo
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
@@ -420,6 +600,54 @@ LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First Tuesday Karaoke [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261201T190000
+DTEND;TZID="UTC-05:00":20261201T210000
+DTSTAMP:20261112T202808Z
+UID:2026-12-01-sandbox-first-tuesday-karaoke
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 9:00 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/first-tuesday-karaoke
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Mic Night [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261202T180000
+DTEND;TZID="UTC-05:00":20261202T200000
+DTSTAMP:20261112T202808Z
+UID:2026-12-02-sandbox-open-mic-night
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 6:00 PM to 8:00 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/open-mic-night-01-dw99d-9xp35
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jamie Kaye First Fridays [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261204T190000
+DTEND;TZID="UTC-05:00":20261204T220000
+DTSTAMP:20261112T202808Z
+UID:2026-12-04-sandbox-jamie-kaye-first-fridays
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 10:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/jamie-kaye-first-fridays-01-da9zx-pyr3g
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Channel Zero: A Darkwave DJ NIght [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261205T200000
+DTEND;TZID="UTC-05:00":20261205T235900
+DTSTAMP:20261112T202808Z
+UID:2026-12-05-sandbox-channel-zero-a-darkwave-dj-night
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 8:00 PM to 11:59 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/channel-zero-a-darkwave-dance-party-6xama
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandbox — Cookin with Greece (no Old Line) [BLACKOUT]
 DTSTART;VALUE=DATE:20261205
 DTSTAMP:20260826T232357Z
@@ -428,6 +656,30 @@ COLOR:#3F51B5
 DESCRIPTION:Cookin with Greece has the Sandbox slot this date — no Old L
  ine service at Sandbox.
 LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Paint 'n Sip [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261205T153000
+DTEND;TZID="UTC-05:00":20261205T173000
+DTSTAMP:20261112T202808Z
+UID:2026-12-05-sandbox-holiday-paint-n-sip
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 3:30 PM to 5:30 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/holiday-paint-n-sip
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOVEPAWS Pet Photos with Santa [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261206T120000
+DTEND;TZID="UTC-05:00":20261206T160000
+DTSTAMP:20261112T202808Z
+UID:2026-12-06-sandbox-lovepaws-pet-photos-with-santa
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 12:00 PM to 4:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/lovepaws-pet-photos-with-santa
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
@@ -442,6 +694,54 @@ LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mark & Sid [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261211T190000
+DTEND;TZID="UTC-05:00":20261211T220000
+DTSTAMP:20261112T202808Z
+UID:2026-12-11-sandbox-mark-sid
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 10:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/mark-sid
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bangles & Brews [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261212T140000
+DTEND;TZID="UTC-05:00":20261212T160000
+DTSTAMP:20261112T202808Z
+UID:2026-12-12-sandbox-bangles-brews
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 2:00 PM to 4:00 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/bangles-brews-2
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festivus with Road Trip Poets [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261219T190000
+DTEND;TZID="UTC-05:00":20261219T220000
+DTSTAMP:20261112T202808Z
+UID:2026-12-19-sandbox-festivus-with-road-trip-poets
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 7:00 PM to 10:00 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/j4ucda610wfihxoo1uk43wx91x2vum
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PetConnect Pictures with Santa [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261220T130000
+DTEND;TZID="UTC-05:00":20261220T160000
+DTSTAMP:20261112T202808Z
+UID:2026-12-20-sandbox-petconnect-pictures-with-santa
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 1:00 PM to 4:00 PM. https://www.sandbo
+ xbrewhouse.com/sandbox-home/petconnect-pictures-with-santa
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sandbox — Cookin with Greece (no Old Line) [BLACKOUT]
 DTSTART;VALUE=DATE:20261221
 DTSTAMP:20260826T232357Z
@@ -450,6 +750,18 @@ COLOR:#3F51B5
 DESCRIPTION:Cookin with Greece has the Sandbox slot this date — no Old L
  ine service at Sandbox.
 LOCATION:Sandbox Brewing — 8411 Broadband Dr\, Frederick\, MD
+X-APPLE-CALENDAR-COLOR:#3F51B5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closed for Christmas [SANDBOX]
+DTSTART;TZID="UTC-05:00":20261225T150000
+DTEND;TZID="UTC-05:00":20261225T223000
+DTSTAMP:20261112T202808Z
+UID:2026-12-25-sandbox-closed-for-christmas
+COLOR:#3F51B5
+DESCRIPTION:On Sandbox's calendar\, 3:00 PM to 10:30 PM. https://www.sandb
+ oxbrewhouse.com/sandbox-home/closed-for-christmas
+LOCATION:Sandbox Brewing\, 8411 Broadband Dr\, Frederick\, MD
 X-APPLE-CALENDAR-COLOR:#3F51B5
 END:VEVENT
 END:VCALENDAR
